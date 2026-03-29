@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#Directory traversal script
+#The script traverses through different directories checking for specific files in specific directories.
+#When run, the script checks for and displays specific name of files in a specified folder 
 doindent(){
     #do a small indent depending on how deep into the tree one is
     j=0
